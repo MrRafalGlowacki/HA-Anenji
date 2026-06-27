@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Anenji Inverter",
+        "description": "Configure RS485 connection",
+        "data": {
+          "port": "Serial port",
+          "baudrate": "Baudrate"
+        }
+      }
+    }
+  }
+}

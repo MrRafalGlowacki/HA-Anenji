@@ -1,0 +1,14 @@
+{
+  "domain": "anenji",
+  "name": "Anenji Inverter",
+  "version": "0.0.1",
+  "documentation": "https://github.com/MrRafalGlowacki/HA-Anenji",
+  "requirements": [
+    "pyserial>=3.5"
+  ],
+  "codeowners": [
+    "@MrRafalGlowacki"
+  ],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
